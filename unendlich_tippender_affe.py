@@ -140,7 +140,7 @@ class AFFE:
 		"""%(dauer,durchlauf_counter,self.max_letters))
 
 #
-wort = "haar".lower()
+wort = input("Wort> ").lower()
 max_letters = 10000
 blatt_dateipfad = "BLATT/%s_%s_%s"%(datum(),uhrzeit(),wort)
 #

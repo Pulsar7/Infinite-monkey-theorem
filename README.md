@@ -4,4 +4,4 @@
   
 # Erklärung
 
-https://mein-wissen.glitch.me
+https://mein-wissen.glitch.me/alle_artikel

@@ -5,11 +5,13 @@ D.h. es werden randomisiert Buchstaben vom Modul *string* ausgewählt und diese 
 jeweilig gesuchte Wort finden, werde alle Daten gespeichert und ausgewertet. Diese sortierten Daten werden anhand von *Matplotlib* 
 visualisiert.
 
+(https://de.wikipedia.org/wiki/Infinite-Monkey-Theorem)
+
 # Wichtige Informationen
 
   1. Es dürfen keine Leerzeichen enthalten sein
   2. Umlaute werden ausgeschrieben: ü = ue; ö = oe; ä = ae
 
-(https://de.wikipedia.org/wiki/Infinite-Monkey-Theorem)
+# Matplotlib Installation Debian/Ubuntu
 
-
+    sudo apt-get install python3-matplotlib

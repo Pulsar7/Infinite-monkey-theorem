@@ -18,6 +18,11 @@ Debian/Ubuntu
 
     sudo apt-get install python3-matplotlib
 
-Weitere Möglichkeiten -> https://matplotlib.org/3.1.1/users/installing.html
+(Weitere Möglichkeiten -> https://matplotlib.org/3.1.1/users/installing.html)
+
+Oder:
+
+    python -m pip install -U pip
+    python -m pip install -U matplotlib
 
 

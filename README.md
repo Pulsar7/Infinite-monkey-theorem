@@ -7,9 +7,7 @@ visualisiert.
 
 (https://de.wikipedia.org/wiki/Infinite-Monkey-Theorem)
 
-**Murphys Gesetz, tippende Affen und Unendlichkeit in der Wahrscheinlichkeitstheorie**
-
-(https://www.wias-berlin.de/people/koenig/www/UnendlWT.pdf)
+**Murphys Gesetz, tippende Affen und Unendlichkeit in der Wahrscheinlichkeitstheorie: ** (https://www.wias-berlin.de/people/koenig/www/UnendlWT.pdf)
  
 # Wichtige Informationen
 

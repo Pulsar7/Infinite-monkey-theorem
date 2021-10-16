@@ -12,6 +12,12 @@ visualisiert.
   1. Es dürfen keine Leerzeichen enthalten sein
   2. Umlaute werden ausgeschrieben: ü = ue; ö = oe; ä = ae
 
-# Matplotlib Installation Debian/Ubuntu
+# Matplotlib Installation
+
+Debian/Ubuntu
 
     sudo apt-get install python3-matplotlib
+
+Weitere Möglichkeiten -> https://matplotlib.org/3.1.1/users/installing.html
+
+

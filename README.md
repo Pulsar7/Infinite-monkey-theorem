@@ -20,7 +20,7 @@ Debian/Ubuntu
 
 (Weitere Möglichkeiten -> https://matplotlib.org/3.1.1/users/installing.html)
 
-Oder:
+Oder (auch für Windows):
 
     python -m pip install -U pip
     python -m pip install -U matplotlib

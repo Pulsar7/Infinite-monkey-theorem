@@ -26,3 +26,6 @@ Oder (auch für Windows):
     python -m pip install -U matplotlib
 
 
+(https://matplotlib.org/stable/users/installing.html)
+
+

@@ -7,7 +7,4 @@ visualisiert.
 
 (https://de.wikipedia.org/wiki/Infinite-Monkey-Theorem)
 
-# Kontakt
-
-(https://mein-wissen.glitch.me)
 

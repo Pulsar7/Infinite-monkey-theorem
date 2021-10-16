@@ -6,6 +6,7 @@ jeweilig gesuchte Wort finden, werde alle Daten gespeichert und ausgewertet. Die
 visualisiert.
 
 (https://de.wikipedia.org/wiki/Infinite-Monkey-Theorem)
+(https://www.wias-berlin.de/people/koenig/www/UnendlWT.pdf)
 
 # Wichtige Informationen
 

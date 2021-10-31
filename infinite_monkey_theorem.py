@@ -87,7 +87,7 @@ class AFFE:
 
 	def write(self):
 		self.BLATT = {}
-		durchlauf_counter,anschläge_counter = 1,0
+		(durchlauf_counter,anschläge_counter) = (1,0)
 		start = time.time()
 		dauer_durchläufe_insgesamt = []
 		print("+ Affe beginnt zu schreiben.")
